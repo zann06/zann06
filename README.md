@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Haii+everyone!+👋;I'm+Zoeeex+from+Cirebon+🇮🇩;Frontend+Developer+%7C+Web+Enthusiast;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Haii+everyone!+👋;I'm+Zoeeex+from+Tangerang+🇮🇩;Frontend+Developer+%7C+Web+Enthusiast;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Zoeeex&color=58a6ff&style=flat-square&label=Profile+Views)
