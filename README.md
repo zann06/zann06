@@ -38,16 +38,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoeeex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoeeex&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zoeeex&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api?username=zann06&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -58,9 +52,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoeeex/Zoeeex/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zoeeex/Zoeeex/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Zoeeex/Zoeeex/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zann06/zann06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zann06/zann06/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zann06/zann06/output/github-snake.svg" />
 </picture>
 
 </div>
