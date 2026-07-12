@@ -61,14 +61,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zann06&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## 🌐 Connect with Me
 
 <p align="center">
