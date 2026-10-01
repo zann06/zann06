@@ -16,26 +16,9 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🌱 Currently**
-- Learning **React** & modern web technologies
-- Building **StudyHub** 🚀
-- Exploring **AI automation** 🤖
-
-</td>
-<td width="50%" valign="top">
-
-**📍 Quick Facts**
-- Based in **Tangerang, Indonesia** 🇮🇩
-- Frontend developer in the making
-- Fun fact: Nasgor goreng cihuy! 🍳
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/about.svg" alt="About Me" width="100%" />
+</div>
 
 ---
 
