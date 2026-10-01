@@ -1,0 +1,31 @@
+<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; letter-spacing: 3px; }
+    .text  { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .row   { opacity: 0; animation: in .7s ease-out forwards; }
+    .r1 { animation-delay: .3s; } .r2 { animation-delay: .8s; }
+    .r3 { animation-delay: 1.3s; } .r4 { animation-delay: 1.8s; }
+    .bar   { transform-box: fill-box; transform-origin: left; animation: grow 1.6s ease-out forwards; }
+    .dot   { animation: pulse 2s ease-in-out infinite; }
+    @keyframes in { from { opacity: 0; transform: translateX(-16px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+  </style>
+
+  <rect x="1" y="1" width="798" height="228" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect class="bar" x="1" y="1" width="798" height="4" rx="2" fill="url(#g)"/>
+
+  <circle class="dot" cx="32" cy="34" r="5" fill="#3fb950"/>
+  <text class="title" x="48" y="39">ABOUT ME</text>
+
+  <g class="row r1"><text class="text" x="32" y="85">🌱  Currently learning React &amp; modern web technologies</text></g>
+  <g class="row r2"><text class="text" x="32" y="123">🚀  Building StudyHub</text></g>
+  <g class="row r3"><text class="text" x="32" y="161">🤖  Interested in AI automation</text></g>
+  <g class="row r4"><text class="text" x="32" y="199">🍳  Fun fact: Nasgor goreng cihuy!</text></g>
+</svg>
