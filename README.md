@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Zoeeex+from+Tangerang+🇮🇩;Frontend+Developer+%7C+AI+Automation+Enthusiast;Building+StudyHub+🚀;Always+learning+new+things+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Zoeeex&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=zann06&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -12,8 +12,10 @@
 
 ### 👨‍💻 About Me
 
--  Currently learning **React** & modern web technologies
--  Fun fact: Nasgor goreng cihuy!
+- 🌱 Currently learning **React** & modern web technologies
+- 🚀 Building **StudyHub**
+- 🤖 Interested in **AI automation**
+- 🍳 Fun fact: Nasgor goreng cihuy!
 
 ---
 
@@ -38,10 +40,20 @@
 
 ### 📊 GitHub Stats
 
-
 <div align="center">
 
-[![GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api?username=zann06&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/zann06">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zann06&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/zann06">
+  <img height="170" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zann06&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/zann06">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=zann06&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -61,17 +73,18 @@
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
-<a href="https://github.com/zann06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/farid-rizky-fauzan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
+  <a href="https://github.com/zann06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/farid-rizky-fauzan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
