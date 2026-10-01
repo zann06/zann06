@@ -1,55 +1,57 @@
 <div align="center">
 
+<!-- Banner -->
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,100:58A6FF&text=Zoeeex&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20Automation%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Zoeeex+from+Tangerang+🇮🇩;Frontend+Developer+%7C+AI+Automation+Enthusiast;Building+StudyHub+🚀;Always+learning+new+things+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Zoeeex+from+Tangerang+🇮🇩;Building+StudyHub+🚀;Always+learning+new+things+💡)](https://github.com/zann06)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=zann06&color=58a6ff&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **React** & modern web technologies
-- 🚀 Building **StudyHub**
-- 🤖 Interested in **AI automation**
-- 🍳 Fun fact: Nasgor goreng cihuy!
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=zann06&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/zann06?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌱 Currently**
+- Learning **React** & modern web technologies
+- Building **StudyHub** 🚀
+- Exploring **AI automation** 🤖
+
+</td>
+<td width="50%" valign="top">
+
+**📍 Quick Facts**
+- Based in **Tangerang, Indonesia** 🇮🇩
+- Frontend developer in the making
+- Fun fact: Nasgor goreng cihuy! 🍳
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/zann06">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zann06&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/zann06">
-  <img height="170" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zann06&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,java,git,vscode&theme=dark" alt="Tech Stack" />
 
-<br/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <a href="https://github.com/zann06">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=zann06&theme=tokyonight&hide_border=true" />
@@ -59,7 +61,7 @@
 
 ---
 
-### 🐍 My Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -73,7 +75,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/zann06">
@@ -94,5 +96,7 @@
 *"Code is like humor. When you have to explain it, it's bad."*
 
 ⭐ **Don't forget to star my repos if you find them useful!** ⭐
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,100:0D1117" />
 
 </div>
