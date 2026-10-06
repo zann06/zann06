@@ -4,7 +4,7 @@
 <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,50:3B82F6,100:22D3EE&text=Zoeeex&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20AI%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Zoeeex+from+Tangerang+🇮🇩;Frontend+Developer+%7C+Web3+Enthusiast+⛓️;Building+StudyHub+🚀;Always+learning+new+things+💡)](https://github.com/zann06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Zoeeex+from+🇮🇩;Frontend+Developer+%7C+Web3+Enthusiast+;Always+learning+new+things+💡)](https://github.com/zann06)
 
 <!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=zann06&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
