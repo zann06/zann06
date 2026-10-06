@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="./assets/about.svg" alt="About Me" width="100%" />
+  <img src="./assets/aboutme.svg" alt="About Me" width="100%" />
 </div>
 
 ---
