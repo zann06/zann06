@@ -1,39 +1,72 @@
 <div align="center">
 
-<!-- Banner -->
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,50:3B82F6,100:22D3EE&text=Zoeeex&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20AI%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F172A,45:3B82F6,100:22D3EE&text=ZOEEEX&fontColor=ffffff&fontSize=78&fontAlignY=42&desc=Frontend%20Developer%20%C2%B7%20Web3%20Builder%20%C2%B7%20AI%20Automation&descAlignY=64&descSize=18&animation=fadeIn" />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Zoeeex+from+🇮🇩;Frontend+Developer+%7C+Web3+Enthusiast+;Always+learning+new+things+💡)](https://github.com/zann06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+clean+and+fast+web+interfaces;Exploring+smart+contracts+and+decentralized+apps;Automating+workflows+with+Python+and+AI;Based+in+Indonesia.+Always+learning.)](https://github.com/zann06)
 
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=zann06&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=zann06&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/zann06?style=for-the-badge&logo=github&color=3B82F6&labelColor=0D1117)
-![Repos](https://img.shields.io/badge/Web3-Enthusiast-22D3EE?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/zann06?style=for-the-badge&logo=github&color=22D3EE&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Indonesia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
+
+Hi, I'm **Zoeeex**, a frontend developer from Indonesia. I build web interfaces that are clean, responsive, and pleasant to use, and I'm increasingly drawn to the places where the frontend meets blockchain and automation.
+
+- Crafting component-driven interfaces with React, TypeScript, and Tailwind CSS
+- Learning smart contract development and dApp integration in the Ethereum ecosystem
+- Writing Python scripts and AI-assisted pipelines to remove repetitive work
+- Focused on readable code, sensible architecture, and shipping steadily
+
+---
+
+## Focus Areas
 
 <div align="center">
-  <img src="./assets/aboutme.svg" alt="About Me" width="100%" />
+
+| Area | What I work on |
+| :--- | :--- |
+| **Frontend Engineering** | Responsive UI, component libraries, state management, performance and accessibility |
+| **Web3** | Solidity basics, wallet integration, on-chain data in the browser, IPFS-hosted assets |
+| **AI and Automation** | Python scripts, API integrations, LLM-powered tools, task and data pipelines |
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,java,git,vscode&theme=dark" alt="Tech Stack" />
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+**Frameworks and Tooling**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## ⛓️ Web3 Journey
+## Web3 Journey
 
 <div align="center">
 
@@ -43,25 +76,43 @@
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
 
-<sub>🔭 Exploring smart contracts, dApps, and the decentralized web, one block at a time.</sub>
+<sub>Exploring smart contracts, dApps, and the decentralized web, one block at a time.</sub>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/zann06">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=zann06&theme=tokyonight&hide_border=true&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" />
+<a href="https://github.com/zann06/TinyWorld">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zann06&repo=TinyWorld&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117" alt="TinyWorld" />
+</a>
+<a href="https://github.com/zann06/MindMesh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zann06&repo=MindMesh&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117" alt="MindMesh" />
 </a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zann06&show_icons=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117&count_private=true" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zann06&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA&bg_color=0D1117&langs_count=8" />
+
+<br/>
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=zann06&theme=tokyonight&hide_border=true&ring=3B82F6&fire=22D3EE&currStreakLabel=60A5FA&background=0D1117" />
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
@@ -75,7 +126,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect
 
 <p align="center">
   <a href="https://github.com/zann06">
@@ -92,8 +143,8 @@
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
-⭐ **Don't forget to star my repos if you find them useful!** ⭐
+<sub>If you find my repositories useful, a star is always appreciated.</sub>
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22D3EE,50:3B82F6,100:7C3AED" />
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22D3EE,50:3B82F6,100:0F172A" />
 
 </div>
