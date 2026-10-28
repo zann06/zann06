@@ -1,9 +1,9 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:3B82F6,100:22D3EE&text=Zoeeex&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Web3%20%C2%B7%20AI%20Automation&descAlignY=57&descSize=18" />
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:3B82F6,100:22D3EE&text=Zoeeex&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Web3%20%C2%B7%20AI%20Automation&descAlignY=57&descSize=18" />
 
 <a href="https://github.com/zann06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&lines=Farid+Rizky+Fauzan;Building+clean+and+fast+web+interfaces;Exploring+smart+contracts+and+dApps;Automating+workflows+with+Python+and+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&lines=Farid+Rizky+Fauzan;Building+clean+and+fast+web+interfaces;Exploring+smart+contracts+and+dApps;Automating+workflows+with+Python+and+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,15 +27,16 @@ I'm a frontend developer from Indonesia. I build web interfaces that are clean, 
 <td width="50%" valign="top">
 
 ### Currently
-- Building **StudyHub**, an academic productivity web app for Indonesian university students
-- Developing a Supabase-backed esports platform with an admin panel
+
 - Learning Solidity and wallet integration for dApps
 - Writing Python scripts and AI-assisted pipelines to remove repetitive work
+- Exploring web technologies and building projects to improve my skills
 
 </td>
 <td width="50%" valign="top">
 
 ### Focus for 2026
+
 - Ship consistently, in small and steady steps
 - Cleaner architecture and more readable code
 - Frontend performance and accessibility
@@ -47,12 +48,14 @@ I'm a frontend developer from Indonesia. I build web interfaces that are clean, 
 <td width="50%" valign="top">
 
 ### Frontend Engineering
+
 Component-driven interfaces with **React**, **TypeScript** and **Tailwind CSS**. Responsive layouts, state management, performance and accessibility.
 
 </td>
 <td width="50%" valign="top">
 
 ### Web3 and Automation
+
 **Solidity** basics, wallet integration, on-chain data in the browser and IPFS-hosted assets. **Python** scripts, API integrations and LLM-powered tools.
 
 </td>
@@ -86,35 +89,24 @@ Component-driven interfaces with **React**, **TypeScript** and **Tailwind CSS**.
 <tr>
 <td width="50%" valign="top">
 
-#### [StudyHub](https://study-hub.web.id)
-Academic productivity web app for Indonesian university students.
-<br/><sub>`React` · `TypeScript` · `Tailwind`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### [StockSpace](https://github.com/zann06/StockSpace)
-One-line description of what it does and who it is for.
-<br/><sub>`React` · `TypeScript` · `Tailwind`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### [MindMesh](https://github.com/zann06/MindMesh)
-One-line description of what it does and who it is for.
+
+Turn your files into a knowledge graph with AI-assisted learning and exploration.
+
 <br/><sub>`React` · `Vite` · `Python`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### [EsportsPlatform](https://teraesports.vercel.app/)
-Campus esports platform with an admin panel for athletes, teams, tournaments and matches.
-<br/><sub>`React` · `TypeScript` · `Supabase`</sub>
+#### [StockSpace](https://github.com/zann06/StockSpace)
+
+A project exploring modern web development and practical application design.
+
+<br/><sub>`React` · `TypeScript` · `Tailwind CSS`</sub>
 
 </td>
 </tr>
+
 </table>
 
 <br/>
@@ -124,6 +116,7 @@ Campus esports platform with an admin panel for athletes, teams, tournaments and
 <div align="center">
 
 <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zann06&show_icons=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117&count_private=true&hide=prs,issues" />
+
 <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zann06&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA&bg_color=0D1117&langs_count=6" />
 
 </div>
@@ -140,6 +133,6 @@ Open to frontend work, Web3 experiments and automation projects. The quickest wa
 
 <sub>Readable code, sensible architecture, steady shipping. A star on my repositories is always appreciated.</sub>
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:22D3EE,50:3B82F6,100:0F172A" />
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:22D3EE,50:3B82F6,100:0F172A" />
 
 </div>
