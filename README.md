@@ -86,9 +86,11 @@ Hi, I'm **Zoeeex**, a frontend developer from Indonesia. I build web interfaces 
 
 <div align="center">
 
-<a href="https://github.com/zann06/TinyWorld">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zann06&repo=TinyWorld&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117" alt="TinyWorld" />
+
+<a href="https://github.com/zann06/StockSpace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zann06&repo=StockSpace&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117" alt="StockSpace" />
 </a>
+
 <a href="https://github.com/zann06/MindMesh">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zann06&repo=MindMesh&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117" alt="MindMesh" />
 </a>
