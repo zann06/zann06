@@ -115,9 +115,8 @@ A project exploring modern web development and practical application design.
 
 <div align="center">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zann06&show_icons=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=22D3EE&bg_color=0D1117&count_private=true&hide=prs,issues" />
 
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zann06&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA&bg_color=0D1117&langs_count=6" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zann06&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=22D3EE&currStreakLabel=60A5FA" alt="GitHub Streak" />
 
 </div>
 
