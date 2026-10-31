@@ -1,46 +1,47 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:3B82F6,100:22D3EE&text=Zoeeex&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Web3%20%C2%B7%20AI%20Automation&descAlignY=57&descSize=18" />
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:3B82F6,100:22D3EE&text=Zoeeex&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=twinkling&desc=Frontend%20Developer%20%C2%B7%20Web3%20%C2%B7%20AI%20Automation&descAlignY=60&descSize=18" />
 
 <a href="https://github.com/zann06">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&lines=Farid+Rizky+Fauzan;Building+clean+and+fast+web+interfaces;Exploring+smart+contracts+and+dApps;Automating+workflows+with+Python+and+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Halo%2C+saya+Farid+Rizky+Fauzan;Membangun+antarmuka+web+yang+bersih+dan+cepat;Menjelajahi+smart+contract+dan+dApps;Mengotomasi+pekerjaan+dengan+Python+dan+AI" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/zann06"><img src="https://img.shields.io/badge/GitHub-zann06-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/farid-rizky-fauzan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/github/followers/zann06?style=flat-square&logo=github&color=3B82F6&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/badge/Based%20in-Indonesia-0D1117?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Indonesia" />
-<img src="https://img.shields.io/badge/Open%20to-collaboration-22D3EE?style=flat-square&labelColor=0D1117" alt="Open to collaboration" />
+<a href="https://github.com/zann06"><img src="https://img.shields.io/badge/GitHub-zann06-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/farid-rizky-fauzan/"><img src="https://img.shields.io/badge/LinkedIn-Terhubung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=zann06&label=Profil%20Dikunjungi&style=for-the-badge&color=3B82F6" alt="Jumlah Profil Dikunjungi" />
+
+<img src="https://img.shields.io/badge/Berbasis%20di-Indonesia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Indonesia" />
+<img src="https://img.shields.io/badge/Terbuka%20untuk-Kolaborasi-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Terbuka untuk kolaborasi" />
 
 </div>
 
 <br/>
 
-## About
+## Tentang Saya
 
-I'm a frontend developer from Indonesia. I build web interfaces that are clean, responsive and pleasant to use, and I'm increasingly interested in the space where the frontend meets blockchain and automation.
+Saya frontend developer dari Indonesia. Saya membangun antarmuka web yang **bersih**, **responsif**, dan **nyaman dipakai**, dan semakin tertarik pada irisan antara frontend, blockchain, dan otomasi.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Currently
+### Sedang Dipelajari
 
-- Learning Solidity and wallet integration for dApps
-- Writing Python scripts and AI-assisted pipelines to remove repetitive work
-- Exploring web technologies and building projects to improve my skills
+- Solidity dan integrasi wallet untuk dApps
+- Script Python dan pipeline berbantuan AI untuk memangkas pekerjaan repetitif
+- Teknologi web terbaru lewat proyek-proyek kecil
 
 </td>
 <td width="50%" valign="top">
 
-### Focus for 2026
+### Fokus 2026
 
-- Ship consistently, in small and steady steps
-- Cleaner architecture and more readable code
-- Frontend performance and accessibility
-- Web3 and AI side projects, built in public
+- Rilis konsisten, sedikit demi sedikit
+- Arsitektur lebih rapi dan kode lebih mudah dibaca
+- Performa dan aksesibilitas frontend
+- Proyek sampingan Web3 dan AI, dibangun secara terbuka
 
 </td>
 </tr>
@@ -49,14 +50,14 @@ I'm a frontend developer from Indonesia. I build web interfaces that are clean, 
 
 ### Frontend Engineering
 
-Component-driven interfaces with **React**, **TypeScript** and **Tailwind CSS**. Responsive layouts, state management, performance and accessibility.
+Antarmuka berbasis komponen dengan **React**, **TypeScript**, dan **Tailwind CSS**. Fokus pada layout responsif, manajemen state, performa, dan aksesibilitas.
 
 </td>
 <td width="50%" valign="top">
 
-### Web3 and Automation
+### Web3 & Otomasi
 
-**Solidity** basics, wallet integration, on-chain data in the browser and IPFS-hosted assets. **Python** scripts, API integrations and LLM-powered tools.
+Dasar-dasar **Solidity**, integrasi wallet, data on-chain di browser, dan aset di IPFS. Juga **Python** untuk script, integrasi API, dan tools berbasis LLM.
 
 </td>
 </tr>
@@ -72,18 +73,18 @@ Component-driven interfaces with **React**, **TypeScript** and **Tailwind CSS**.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
-<img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS" />
-<img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white" alt="Polygon" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
+<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
 </div>
 
 <br/>
 
-## Featured Projects
+## Proyek Unggulan
 
 <table>
 <tr>
@@ -91,7 +92,7 @@ Component-driven interfaces with **React**, **TypeScript** and **Tailwind CSS**.
 
 #### [MindMesh](https://github.com/zann06/MindMesh)
 
-Turn your files into a knowledge graph with AI-assisted learning and exploration.
+Ubah file kamu menjadi *knowledge graph* dengan bantuan AI untuk belajar dan eksplorasi.
 
 <br/><sub>`React` · `Vite` · `Python`</sub>
 
@@ -100,21 +101,22 @@ Turn your files into a knowledge graph with AI-assisted learning and exploration
 
 #### [StockSpace](https://github.com/zann06/StockSpace)
 
-A project exploring modern web development and practical application design.
+Proyek eksplorasi pengembangan web modern dan desain aplikasi yang praktis.
 
 <br/><sub>`React` · `TypeScript` · `Tailwind CSS`</sub>
 
 </td>
 </tr>
-
 </table>
 
 <br/>
 
-## Activity
+## Aktivitas
 
 <div align="center">
 
+
+<br/>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zann06&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=22D3EE&currStreakLabel=60A5FA" alt="GitHub Streak" />
 
@@ -122,16 +124,16 @@ A project exploring modern web development and practical application design.
 
 <br/>
 
-## Get in Touch
+## Hubungi Saya
 
-Open to frontend work, Web3 experiments and automation projects. The quickest way to reach me is through [LinkedIn](https://www.linkedin.com/in/farid-rizky-fauzan/), or open an issue or discussion on any of my repositories.
+Saya terbuka untuk pekerjaan frontend, eksperimen Web3, dan proyek otomasi. Cara tercepat menghubungi saya lewat [LinkedIn](https://www.linkedin.com/in/farid-rizky-fauzan/), atau buka *issue* / *discussion* di repositori mana pun milik saya.
 
 <br/>
 
 <div align="center">
 
-<sub>Readable code, sensible architecture, steady shipping. A star on my repositories is always appreciated.</sub>
+<sub>Kode yang mudah dibaca, arsitektur yang masuk akal, rilis yang konsisten. Bintang di repositori saya selalu disambut dengan senang hati.</sub>
 
-<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:22D3EE,50:3B82F6,100:0F172A" />
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22D3EE,50:3B82F6,100:0F172A" />
 
 </div>
