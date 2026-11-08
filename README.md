@@ -91,11 +91,11 @@ Solidity fundamentals, wallet integration, on-chain data in the browser, and ass
 <tr>
 <td width="50%" valign="top">
 
-#### [MindMesh](https://github.com/zann06/MindMesh)
+#### [AksesAI](https://github.com/zann06/AksesAI)
 
-Turn your files into an AI-powered *knowledge graph* for learning and exploration.
+A community-driven, manually verified directory of free & low-cost AI services — free API tiers, token pricing, open-weight models, and free hosting. Live at [aksesai-id.vercel.app](https://aksesai-id.vercel.app).
 
-<br/><sub>`React` · `Vite` · `Python`</sub>
+<br/><sub>`Next.js` · `TypeScript` · `Supabase` · `Tailwind CSS`</sub>
 
 </td>
 <td width="50%" valign="top">
